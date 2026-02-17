@@ -28,7 +28,7 @@ The analysis includes content distribution, ratings analysis, country-wise trend
 
 ## 📂 Dataset
 - Source: Kaggle Netflix Movies and TV Shows Dataset  
-- File Used: `netflix_titles.csv`
+- File Used: [netflix_titles](https://github.com/Sakshi-Gaur01/netflix_sql_project/blob/661105a3c32d55ccabf4758a2b8f921097fa4497/netflix_titles.csv)
 
 The dataset contains information about:
 - Movies and TV Shows
